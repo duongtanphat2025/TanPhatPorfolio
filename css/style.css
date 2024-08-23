@@ -1,0 +1,18 @@
+body {
+  background-color: #051a16;
+}
+.Intro:hover {
+  transform: scale(1.1);
+}
+.Skill:hover {
+  transform: scale(1.1);
+}
+.Expert:hover {
+  transform: scale(1.1);
+}
+.FacebookIconSvg1:hover {
+  transform: scale(1.1);
+}
+.IconOfZaloSvg1:hover {
+  transform: scale(1.1);
+}
